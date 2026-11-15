@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_radius">24dp</dimen>
+    <color name="widget_fallback">#FF0B57D0</color>
+    <color name="widget_card_fallback">#FF1D1B20</color>
+    <string name="widget_brand" translatable="false">YMUSIC</string>
+</resources>

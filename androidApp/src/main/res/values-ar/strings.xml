@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="playback_notification_channel">التشغيل</string>
+    <string name="notification_previous">السابق</string>
+    <string name="notification_play">تشغيل</string>
+    <string name="notification_pause">إيقاف مؤقت</string>
+    <string name="notification_next">التالي</string>
+    <string name="notification_close">إغلاق</string>
+    <string name="notifications_required">يشغّل YMusic الموسيقى من خدمة تعمل في الخلفية ويجب أن تعرض إشعار التشغيل. اسمح بالإشعارات للمتابعة.</string>
+    <string name="notifications_allow">السماح بالإشعارات</string>
+    <string name="download_notification_channel">التنزيلات</string>
+    <string name="notification_downloads_running">جارٍ التنزيل…</string>
+    <string name="notification_downloads_multi">جارٍ تنزيل العناصر: %1$d</string>
+    <string name="download_state_queued">في قائمة الانتظار</string>
+    <string name="download_state_preparing">جارٍ التحضير…</string>
+    <string name="download_state_downloading">جارٍ التنزيل…</string>
+    <string name="download_state_processing">جارٍ المعالجة…</string>
+    <string name="download_state_paused">متوقف مؤقتًا</string>
+    <string name="notification_download_finished">اكتمل التنزيل</string>
+    <string name="downloads_summary_finished">المكتملة: %1$d</string>
+    <string name="downloads_summary_failed">الفاشلة: %1$d</string>
+    <string name="downloads_summary_paused">المتوقفة مؤقتًا: %1$d</string>
+    <string name="downloads_pause_all">إيقاف الكل مؤقتًا</string>
+    <string name="share_play">تشغيل</string>
+    <string name="share_download_mp3">تنزيل MP3</string>
+    <string name="share_download_m4a">تنزيل M4A</string>
+    <string name="share_download">تنزيل آخر</string>
+    <string name="share_no_link">لا يوجد رابط لفتحه في المحتوى المُشارَك</string>
+    <string name="widget_small_name">المشغّل · صغير</string>
+    <string name="widget_compact_name">المشغّل · مضغوط</string>
+    <string name="widget_large_name">المشغّل · كبير</string>
+    <string name="widget_square_name">المشغّل · مربّع</string>
+    <string name="widget_description">ما يُشغَّل الآن مع أزرار التحكم</string>
+    <string name="widget_nothing_playing">لا شيء قيد التشغيل</string>
+    <string name="widget_open_to_start">افتح YMusic لبدء الاستماع</string>
+</resources>
